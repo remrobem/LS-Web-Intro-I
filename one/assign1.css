@@ -1,0 +1,26 @@
+body {
+	max-width: 100%;
+   }
+
+.yellow {
+    background-color: yellow;
+    height: 900px;
+}
+
+.red {
+    background-color: red;
+    height: 10%;    
+}
+
+.blue {
+
+    background-color: blue;
+    height: 83%;
+    margin: 0% 10%;
+}
+
+.green {
+    background-color: green;
+    height: 7%;
+    margin: 0% 10%;
+}
